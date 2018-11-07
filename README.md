@@ -789,7 +789,7 @@ https://www.seleniumhq.org/
 https://scrapy.org/
 
 ## Summary
-You should now have a brief intro to web scraping! The possabilities are nearly endless with what you can do. That said, not all websites will be thrilled with your new prowess. Surfing the web at super human speeds will get you banned from many domains and may violate the terms & conditions of many websites that require login. As such, there are a few considerations you should take along your way.
+You should now have a brief intro to web scraping! The possibilities are nearly endless with what you can do. That said, not all websites will be thrilled with your new prowess. Surfing the web at super human speeds will get you banned from many domains and may violate the terms & conditions of many websites that require login. As such, there are a few considerations you should take along your way.
 
 * Is there a terms and conditions for using the website?
 * Test your scraping bot on in small samples to debug before scaling to hundreds, thousands or millions of requests.
